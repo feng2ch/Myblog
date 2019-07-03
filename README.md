@@ -1,30 +1,29 @@
 # Myblog
-### 
 
 >Vue.js+Express+MongoDB搭建的一个前后端分离的博客系统
 
 ## 技术栈
 
-- 前端：Vue.js,vue-router,vue-resource,vuex
-- 后端：Mongodb,Express,node.js
+前端：Vue.js,vue-router,vue-resource,vuex
+后端：Mongodb,Express,node.js
 
 ##功能展示
 ####客户端
 
-- [x]动态显示文章
-- [x]分类显示文章
-- [x]搜索文章
-- [x]markdown和代码高亮渲染
-- [x]评论模块&邮件功能
+- 动态显示文章
+- 分类显示文章
+- 搜索文章
+- markdown和代码高亮渲染
+- 评论模块&邮件功能
 
 ####服务器端
 
-- [x]发布文章
-- [x]修改文章&删除文章
-- [x]搜索文章
-- [x]登录验证
-- [x]修改账户
-- [x]草稿
+- 发布文章
+- 修改文章&删除文章
+- 搜索文章
+- 登录验证
+- 修改账户
+- 草稿
 
 ## 运行
 ####环境
