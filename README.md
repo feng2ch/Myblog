@@ -1,36 +1,94 @@
-# Myblog
+﻿> A Vue.js project  
+> Vue.js+Express+MongoDB搭建的前后端分离的博客系统
 
->Vue.js+Express+MongoDB搭建的一个前后端分离的博客系统
+# 技术栈  
+*  前端：Vue.js,vue.router,vuex,vue-resource  
+*  后端：Mongodb,Express,node.js  
 
-## 技术栈
+# 博客功能  
+## 前台展示
+- [x] 动态显示文章
+- [x] 分类显示文章
+- [x] 搜索文章
+- [x] markdown和代码高亮渲染
+- [x] 评论模块
+- [x] 邮件功能
+## 后台管理
+- [x] 发布文章
+- [x] 修改文章
+- [x] 删除文章
+- [x] 搜索文章
+- [x] 登录验证
+- [x] 修改账户
+- [x] 草稿
+# 运行
+## 环境
+* mongodb
+* node.js
+## 克隆项目
+```
+git clone https://github.com/Hilda1227/Blog-CMS.git
+```
+## 安装依赖
+```
+npm install
+```
+## 启动服务器
+开启数据库以后
+```
+npm run start
+```
+不要关闭这个窗口，然后Win+R再开启另一个窗口
+## 加载项目
+```
+npm run dev
+```
+稍等一会儿，页面就会自动在浏览器窗口加载了
+# 示例页面
+### 首页
+![](./src/assets/img/QQ图片20170830100033.png)  
 
-前端：Vue.js,vue-router,vue-resource,vuex
-后端：Mongodb,Express,node.js
+### 归档
+![](./src/assets/img/QQ图片20170830100100.png)  
 
-##功能展示
-####客户端
+### 标签
+![](./src/assets/img/QQ图片20170830100106.png)  
 
-- 动态显示文章
-- 分类显示文章
-- 搜索文章
-- markdown和代码高亮渲染
-- 评论模块&邮件功能
+### 关于
+![](./src/assets/img/QQ图片20170830100111.png)
 
-####服务器端
+### 搜索
+![](./src/assets/img/QQ图片20170830100122.png)
 
-- 发布文章
-- 修改文章&删除文章
-- 搜索文章
-- 登录验证
-- 修改账户
-- 草稿
+### 列表
+![](./src/assets/img/QQ图片20170830102253.png)
 
-## 运行
-####环境
-确认已安装mongodb数据库
-####运行
-1.安装：npm install
-2.开启数据库服务：cmd 运行 mongod --dbpath +数据库文件位置
-3.启动服务器：npm run start
-4.加载项目：npm run dev
-##示例页面
+### 文章
+![](./src/assets/img/QQ图片20170830100126.png)
+
+### 评论
+![](./src/assets/img/QQ图片20170830100131.png)
+
+### 邮件
+![](./src/assets/img/QQ图片20170830100135.png)
+
+### 登陆
+![](./src/assets/img/QQ图片20170830100140.png)  
+
+### 文章管理
+![](./src/assets/img/QQ图片20170830100145.png)  
+
+### 新建
+![](./src/assets/img/QQ图片20170830100149.png)
+
+### 草稿
+![](./src/assets/img/QQ图片20170830100153.png)
+
+### 修改账户
+![](./src/assets/img/QQ图片20170830100157.png)
+
+### 修改文章
+![](./src/assets/img/QQ图片20170830100202.png)
+
+### 删除账户
+![](./src/assets/img/QQ图片20170830100206.png)
