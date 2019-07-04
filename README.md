@@ -28,36 +28,36 @@
 
 # 示例页面
 ### 首页
-![](./src/assets/img/bh1.png) 
-![](./src/assets/img/bh2.png)  
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh1.PNG) 
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh2.PNG)  
 
 ### 归档
-![](./src/assets/img/bh5.png)  
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh5.PNG)  
 
 ### 标签
-![](./src/assets/img/bh6.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh6.PNG)
 
 ### 搜索
-![](./src/assets/img/bh7.png)
-![](./src/assets/img/bh8.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh7.PNG)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh8.PNG)
 
 ### 文章
-![](./src/assets/img/bh3.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh3.PNG)
 
 ### 评论&邮件
-![](./src/assets/img/bh4.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh4.PNG)
 
 ### 登陆
-![](./src/assets/img/bh9.png)  
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh9.PNG)  
 
 ### 文章管理
-![](./src/assets/img/bh13.png)  
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh13.PNG)  
 
 ### 新建
-![](./src/assets/img/bh10.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh10.PNG)
 
 ### 草稿
-![](./src/assets/img/bh11.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh11.PNG)
 
 ### 修改账户
-![](./src/assets/img/bh12.png)
+![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh12.PNG)
