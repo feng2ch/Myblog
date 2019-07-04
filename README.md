@@ -47,7 +47,7 @@
 ### 评论&邮件
 ![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh4.PNG)
 
-### 登陆
+### 后台登录
 ![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh9.PNG)  
 
 ### 文章管理
