@@ -25,7 +25,7 @@ app.all('/api/admin/*', function(req, res, next) {
       if(session.expire > (new Date()).getTime()){
         let exp = Math.floor((new Date().getTime()) / 1000) + 60 * 60 * 24 * 30,
 				expire = (new Date()).getTime() + 1000 * 60 * 20;
-        session = jwt.sign({ expire, exp }, 'HILDA_BLOG');
+        session = jwt.sign({ expire, exp }, 'BLOG');
         console.log('新session', session);
         res.cookie('session', session);
         next();

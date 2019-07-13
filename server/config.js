@@ -1,5 +1,5 @@
 module.exports = {
-    username: 'hilda',
-    password: '12345',
-    SIGN_KEY: 'HILDA_BLOG'
+    username: 'bobby',
+    password: '123456',
+    SIGN_KEY: 'BLOG'
 }

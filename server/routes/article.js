@@ -32,7 +32,7 @@ router.get('/api/articles',function(req,res){
 
 router.get('/api/searchArticles',function(req,res){
 	let key = req.query.key;
-	db.Article.find({"title":eval("/.*"+key+".*/i")})
+	db.Article.find({"title":eval("/"+key+"/i")})
 	.then( result => res.send(result) )
 	.catch( err => console.log(err) )
 

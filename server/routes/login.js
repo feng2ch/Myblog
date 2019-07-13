@@ -13,7 +13,7 @@ router.get('/api/login',function(req, res){
 		  // 生成sessionId返回给客户端
 			let exp = Math.floor((new Date().getTime())/1000) + 60 * 60 * 24 * 30,
 				expire = (new Date()).getTime() + 1000 * 60 * 20,
-		    session = jwt.sign({ expire, exp }, 'HILDA_BLOG');
+		    session = jwt.sign({ expire, exp }, 'BLOG');
 		  res.cookie('session', session);
 		  res.send(user.username);
 	  } else {
