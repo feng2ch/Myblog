@@ -25,7 +25,7 @@
 * 开启数据库服务：cmd 运行 mongod --dbpath +数据库文件位置
 * 启动服务器：npm run start
 * 加载项目：npm run dev
-
+* 初始用户名密码：bobby 123456
 # 示例页面
 ### 首页
 ![](https://github.com/feng2ch/My-blog/blob/master/src/assets/img/bh1.PNG) 
